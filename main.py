@@ -7,3 +7,8 @@ user_planet = str(input("What planet are you from..."))
 
 #take input from user
 #if planet == Mars: throw error
+
+if user_planet == "Earth":
+    print()
+elif user_planet == "Saturn":
+    print()
